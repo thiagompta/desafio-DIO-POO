@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="594632b5-49da-43a7-bf36-345f7aef19be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Desafio_java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_java/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_java/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <updated>1768266108361</updated>
       <workItem from="1768266109438" duration="171000" />
       <workItem from="1768313290455" duration="147000" />
-      <workItem from="1768313567104" duration="6871000" />
+      <workItem from="1768313567104" duration="8091000" />
     </task>
     <servers />
   </component>

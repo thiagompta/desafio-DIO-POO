@@ -10,7 +10,7 @@ public class Main {
         curso.setTitulo("Desafio Bootcamp Java");
         curso.setDescricao("Descrição do Bootcamp");
         curso.setCargaHoraria(8);
-        
+
         Curso curso2 = new Curso();
         curso2.setTitulo("Curso Ex Bootcamp Java");
         curso2.setDescricao("Descrição do ex. 2");
