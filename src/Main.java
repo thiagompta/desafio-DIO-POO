@@ -1,4 +1,7 @@
-import br.com.dio.desafio.dominio.*;
+import br.com.dio.desafio.dominio.Bootcamp;
+import br.com.dio.desafio.dominio.Curso;
+import br.com.dio.desafio.dominio.Dev;
+import br.com.dio.desafio.dominio.Mentoria;
 
 import java.time.LocalDate;
 
@@ -13,8 +16,7 @@ public class Main {
         curso2.setTitulo("Curso de Python");
         curso2.setDescricao("Descrição de um curso de Python");
         curso2.setCargaHoraria(4);
-        //System.out.println(curso);
-        //System.out.println(curso2);
+
 
 
         Mentoria mentoria = new Mentoria();
